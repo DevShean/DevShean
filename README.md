@@ -1,7 +1,7 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevShean&show_icons=true&bg_color=0d1117&title_color=ff0033&text_color=ffffff&icon_color=ff0033"/>
-  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=DeveS&theme=dark&ring=ff0033&fire=ff0033"/>
+  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=DevShean&theme=dark&ring=ff0033&fire=ff0033"/>
 </p>
 
 <p align="center">
