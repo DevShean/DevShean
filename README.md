@@ -1,16 +1,8 @@
 # 💫 About Me:
 - 🔭 I’m currently working on Eventu (Event Management System)<br>- 👯 I’m looking to collaborate on open-source web apps<br>- 🤝 I’m looking for help with DevOps & Python<br>- 🌱 I’m currently learning Next.js and Supabase<br>- 💬 Ask me about PHP, JavaScript, and MongoDB<br>- ⚡ Fun fact: I can solve a Rubik’s Cube
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=DevShean&show_icons=true&bg_color=0d1117&title_color=ff0033&text_color=ffffff&icon_color=ff0033"/>
-  <img height="195" src="https://nirzak-streak-stats.vercel.app/?user=DevShean&theme=dark&ring=ff0033&fire=ff0033"/>
-</p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevShean&layout=compact&bg_color=0d1117&title_color=ff0033&text_color=ffffff"/>
-</p>
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sh3anz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sh3anz._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shean-ta%C3%B1amor-612a72379/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanamor.shn@gmail.com) 
 
 # 💻 Tech Stack:
