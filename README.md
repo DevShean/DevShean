@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Eventu (Event Management System )<br>- 👯 I’m looking to collaborate on open-source web apps<br>- 🤝 I’m looking for help with DevOps & Python<br>- 🌱 I’m currently learning Next.js and Supabase<br>- 💬 Ask me about PHP, JavaScript, and MongoDB<br>- ⚡ Fun fact: I can solve a Rubik’s Cube
+- 🔭 I’m currently working on Eventu (Event Management System)<br>- 👯 I’m looking to collaborate on open-source web apps<br>- 🤝 I’m looking for help with DevOps & Python<br>- 🌱 I’m currently learning Next.js and Supabase<br>- 💬 Ask me about PHP, JavaScript, and MongoDB<br>- ⚡ Fun fact: I can solve a Rubik’s Cube
 
 
 ## 🌐 Socials:
