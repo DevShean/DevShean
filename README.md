@@ -1,30 +1,43 @@
 # 📊 GitHub Stats:
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevShean&show_icons=true&bg_color=0d1117&title_color=ff0033&text_color=ffffff&icon_color=ff0033"/>
-  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=DevShean&theme=dark&ring=ff0033&fire=ff0033"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevShean&show_icons=true&bg_color=000000&title_color=ff8c00&text_color=ffffff&icon_color=ff8c00"/>
+  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=DevShean&theme=dark&ring=ff8c00&fire=ff8c00"/>
 </p>
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevShean&layout=compact&bg_color=0d1117&title_color=ff0033&text_color=ffffff"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevShean&layout=compact&bg_color=000000&title_color=ff8c00&text_color=ffffff"/>
 </p>
 
 # 💻 Tech Stack:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-ff8c00?style=for-the-badge&logo=.net&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-ff8c00?style=for-the-badge&logo=typescript&logoColor=white) 
+![Python](https://img.shields.io/badge/python-ff8c00?style=for-the-badge&logo=python&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-ff8c00?style=for-the-badge&logo=php&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-ff8c00?style=for-the-badge&logo=javascript&logoColor=black) 
+![Java](https://img.shields.io/badge/java-ff8c00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-ff8c00?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-ff8c00?style=for-the-badge&logo=css3&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-ff8c00?style=for-the-badge&logo=mysql&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-ff8c00?style=for-the-badge&logo=figma&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-ff8c00?style=for-the-badge&logo=node.js&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-ff8c00?style=for-the-badge&logo=vercel&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-ff8c00?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Supabase](https://img.shields.io/badge/Supabase-ff8c00?style=for-the-badge&logo=supabase&logoColor=white) 
+![Git](https://img.shields.io/badge/git-ff8c00?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-ff8c00?style=for-the-badge&logo=github&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-ff8c00?style=for-the-badge&logo=docker&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next.js-ff8c00?style=for-the-badge&logo=next.js&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-ff8c00?style=for-the-badge&logo=postgresql&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-ff8c00?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sh3anz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sh3anz._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shean-ta%C3%B1amor-612a72379/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanamor.shn@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-ff8c00.svg?logo=Facebook&logoColor=white)](https://facebook.com/sh3anz) 
+[![Instagram](https://img.shields.io/badge/Instagram-ff8c00.svg?logo=Instagram&logoColor=white)](https://instagram.com/sh3anz._) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff8c00.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shean-ta%C3%B1amor-612a72379/) 
+[![Email](https://img.shields.io/badge/Email-ff8c00?logo=gmail&logoColor=white)](mailto:tanamor.shn@gmail.com) 
 
-
-
-# 💫 About Me:
-- 🔭 I’m currently working on Eventu (Event Management System)<br>- 👯 I’m looking to collaborate on open-source web apps<br>- 🤝 I’m looking for help with DevOps & Python<br>- 🌱 I’m currently learning Next.js and Supabase<br>- 💬 Ask me about PHP, JavaScript, and MongoDB<br>- ⚡ Fun fact: I can solve a Rubik’s Cube
-- 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DevShean&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DevShean&theme=onestar)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DevShean&icon=3&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=DevShean&icon=3&color=ff8c00)](https://visitcount.itsvg.in)
