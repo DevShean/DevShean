@@ -1,7 +1,7 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img height="170" 
-       src="https://github-readme-stats.vercel.app/api?username=DevShean&show_icons=true&theme=dark&bg_color=000000&title_color=ff8c00&text_color=ffffff&icon_color=ff8c00&border_color=ff8c00" />
+       src="https://github-readme-stats.vercel.app/api?username=DevShean&show_icons=true&theme=dark&bg_color=000000&title_color=ff8c00&text_color=ffffff&icon_color=ff8c00&border_color=ff8c00&v=1" />
 
   <img height="170" 
        src="https://streak-stats.demolab.com?user=DevShean&theme=dark&background=000000&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00&border=ff8c00" />
@@ -9,7 +9,7 @@
 
 <p align="center">
   <img height="195" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevShean&layout=compact&theme=dark&bg_color=000000&title_color=ff8c00&text_color=ffffff&border_color=ff8c00" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevShean&layout=compact&theme=dark&bg_color=000000&title_color=ff8c00&text_color=ffffff&border_color=ff8c00&v=1" />
 </p>
 
 # 💻 Tech Stack:
